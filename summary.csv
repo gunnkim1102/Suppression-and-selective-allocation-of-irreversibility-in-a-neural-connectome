@@ -1,0 +1,59 @@
+quantity,this_run,reference,match
+Fig 1b  sigma (connectome),0.16568,0.1657,True
+Fig 2b  suppression % degree,20.7914,20.7914,True
+Fig 2b  suppression % hierarchy,21.8471,21.8471,True
+Fig 2b  suppression % strength,13.3471,13.3471,True
+Fig 2b  suppression % strength_hierarchy,12.1022,12.1022,True
+Fig 3   F0 connectome,0.496594,0.4966,True
+Fig 3   F0 degree-null mean,0.6699,0.6699,True
+"Fig 3   r(F0, sigma) over nulls",-0.0719385,-0.0719,True
+SI S8   rotation rate 1,0.113077,0.1131,True
+SI S8   rotation rate 2,0.10658,0.1066,True
+SI S8   rotation rate 3,0.0761599,0.0762,True
+SI S8   rotation rate 4,0.0730077,0.073,True
+SI S8   rotation rate 5,0.0645352,0.0645,True
+SI S8   rotation rate 6,0.0574557,0.0575,True
+SI S13  slope log c_i ~ log k_i,1.29342,1.2934,True
+SI S13  R2,0.583283,0.5833,True
+Fig S1a slope log sigma_i ~ log k_i,1.42775,1.4277,True
+Fig S1a R2,0.708458,0.7085,True
+Table SVI Forward real z,-0.681305,-0.6813,True
+Table SVI Backward real z,2.12008,2.1201,True
+Table SVI Turn/steer real z,4.75056,4.7506,True
+Table SVI Nocicept/escape real z,3.3106,3.3106,True
+Table SVI Chemosens.integ real z,5.4519,5.4519,True
+Table SVI Forward null z,-0.625747,-0.6257,True
+Table SVI Backward null z,0.968462,0.9685,True
+Table SVI Turn/steer null z,5.69597,5.696,True
+Table SVI Nocicept/escape null z,2.00117,2.0012,True
+Table SVI Chemosens.integ null z,6.20251,6.2025,True
+Table SIX Forward z,-3.15991,-3.1599,True
+Table SIX Backward z,3.90189,3.9019,True
+Table SIX Turn/steer z,1.20823,1.2082,True
+Table SIX Nocicept/escape z,2.68585,2.6859,True
+Table SIX Chemosens.integ z,1.59531,1.5953,True
+"Table SVIII rho(c_i, Weighted degree)",0.708461,0.7085,True
+"Table SVIII rho(c_i, Eigenvector centrality)",0.559554,0.5596,True
+"Table SVIII rho(c_i, k-core number)",0.5208,0.5208,True
+"Table SVIII rho(c_i, Closeness)",0.517524,0.5175,True
+"Table SVIII rho(c_i, Betweenness)",0.416726,0.4167,True
+"Table SVIII rho(c_i, Clustering coefficient)",-0.132472,-0.1325,True
+Fig 4c  stage 1 suppression %,13.037,13.037,True
+Fig 4c  stage 2 suppression %,41.9841,41.9841,True
+Fig 4c  stage 3 suppression %,56.2384,56.2384,True
+Fig 4c  stage 4 suppression %,69.6436,69.6436,True
+Fig 4c  stage 5 suppression %,57.3228,57.3228,True
+Fig 4c  stage 6 suppression %,68.0399,68.0399,True
+Fig 4c  stage 7 suppression %,50.434,50.434,True
+Fig 4c  stage 8 suppression %,72.7297,72.7297,True
+"SI S2   strength null 1x swaps, suppression %",13.2886,13.2886,True
+"SI S2   strength null 5x swaps, suppression %",13.7331,13.7331,True
+Fig 4d  stage 1 rank RIA/AVA/AIY,3/31/10,3/31/10,True
+Fig 4d  stage 2 rank RIA/AVA/AIY,1/33/13,1/33/13,True
+Fig 4d  stage 3 rank RIA/AVA/AIY,1/38/21,1/38/21,True
+Fig 4d  stage 4 rank RIA/AVA/AIY,1/26/16,1/26/16,True
+Fig 4d  stage 5 rank RIA/AVA/AIY,1/30/20,1/30/20,True
+Fig 4d  stage 6 rank RIA/AVA/AIY,1/25/31,1/25/31,True
+Fig 4d  stage 7 rank RIA/AVA/AIY,1/13/34,1/13/34,True
+Fig 4d  stage 8 rank RIA/AVA/AIY,1/15/38,1/15/38,True
+"Fig S1b mode x circuit z, max |diff|",0,0.0,True

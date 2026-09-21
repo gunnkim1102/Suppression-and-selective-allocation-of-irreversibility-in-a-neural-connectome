@@ -1,0 +1,122 @@
+[
+ {
+  "stage": 1,
+  "N": 165,
+  "n_inhibitory": 5,
+  "sigma_real": 6.453481464068091,
+  "null_mean": 7.420953354917422,
+  "suppression_pct": 13.03702967231623,
+  "ci_pct": [
+   12.641844859450213,
+   13.417942866068907
+  ],
+  "rank_RIA": 3,
+  "rank_AVA": 31,
+  "rank_AIY": 10
+ },
+ {
+  "stage": 2,
+  "N": 166,
+  "n_inhibitory": 6,
+  "sigma_real": 5.063277568707182,
+  "null_mean": 8.727391333134442,
+  "suppression_pct": 41.98406630989576,
+  "ci_pct": [
+   41.64019252645203,
+   42.297835275143164
+  ],
+  "rank_RIA": 1,
+  "rank_AVA": 33,
+  "rank_AIY": 13
+ },
+ {
+  "stage": 3,
+  "N": 166,
+  "n_inhibitory": 6,
+  "sigma_real": 4.156284471631702,
+  "null_mean": 9.497552371645359,
+  "suppression_pct": 56.23836216960322,
+  "ci_pct": [
+   55.90998187231159,
+   56.55738138468257
+  ],
+  "rank_RIA": 1,
+  "rank_AVA": 38,
+  "rank_AIY": 21
+ },
+ {
+  "stage": 4,
+  "N": 172,
+  "n_inhibitory": 6,
+  "sigma_real": 2.471601548845044,
+  "null_mean": 8.141935791451395,
+  "suppression_pct": 69.64356374020912,
+  "ci_pct": [
+   69.47098829594634,
+   69.82330992278982
+  ],
+  "rank_RIA": 1,
+  "rank_AVA": 26,
+  "rank_AIY": 16
+ },
+ {
+  "stage": 5,
+  "N": 178,
+  "n_inhibitory": 6,
+  "sigma_real": 3.137684064865005,
+  "null_mean": 7.352130860047206,
+  "suppression_pct": 57.322793560221555,
+  "ci_pct": [
+   57.13032452777512,
+   57.516204520429156
+  ],
+  "rank_RIA": 1,
+  "rank_AVA": 30,
+  "rank_AIY": 20
+ },
+ {
+  "stage": 6,
+  "N": 179,
+  "n_inhibitory": 6,
+  "sigma_real": 3.1347189854194006,
+  "null_mean": 9.808223149855298,
+  "suppression_pct": 68.03988920800963,
+  "ci_pct": [
+   67.86040696196461,
+   68.22714284261947
+  ],
+  "rank_RIA": 1,
+  "rank_AVA": 25,
+  "rank_AIY": 31
+ },
+ {
+  "stage": 7,
+  "N": 185,
+  "n_inhibitory": 6,
+  "sigma_real": 4.833126621922318,
+  "null_mean": 9.750893877021703,
+  "suppression_pct": 50.43401473877449,
+  "ci_pct": [
+   50.19250038413229,
+   50.68475094498584
+  ],
+  "rank_RIA": 1,
+  "rank_AVA": 13,
+  "rank_AIY": 34
+ },
+ {
+  "stage": 8,
+  "N": 184,
+  "n_inhibitory": 6,
+  "sigma_real": 2.6247244938166263,
+  "null_mean": 9.624836853825997,
+  "suppression_pct": 72.72967289026552,
+  "ci_pct": [
+   72.59523473150819,
+   72.8630828041199
+  ],
+  "rank_RIA": 1,
+  "rank_AVA": 15,
+  "rank_AIY": 38
+ }
+]
